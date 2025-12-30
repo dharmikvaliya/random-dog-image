@@ -3,7 +3,7 @@
 A simple web project that fetches and displays a random dog image using a public API.
 
 ## 🚀 Live Demo
-(Enable GitHub Pages to add link here)
+https://dharmikvaliya.github.io/random-dog-image/
 
 ## 🛠️ Technologies Used
 - HTML5
